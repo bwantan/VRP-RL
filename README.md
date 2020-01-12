@@ -7,11 +7,14 @@ We use Reinforcement for solving Travelling Salesman Problem (TSP) and Vehicle R
 ## Paper
 Implementation of our paper: [Reinforcement Learning for Solving the Vehicle Routing Problem](https://arxiv.org/abs/1802.04240v2). 
 
+## Notes
+Forked from https://github.com/OptMLGroup/VRP-RL. Modified to support Python 3.6.10 and Tensorflow 2.0
+
 ## Dependencies
 
 
 * Numpy
-* [tensorflow](https://www.tensorflow.org/)>=1.2
+* [tensorflow](https://www.tensorflow.org/)=2.0
 * tqdm
 
 ## How to Run
